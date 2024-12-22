@@ -1,4 +1,4 @@
-# Wireshark & Nmap University  
+# Wireshark & Nmap  
 ## Network Traffic Analysis & Vulnerability Scanning
 
 ![Wireshark & Nmap University](https://i.imgur.com/kRZTglr.png)
