@@ -1,7 +1,8 @@
 # Wireshark & Nmap  
 ## Network Traffic Analysis & Vulnerability Scanning
 
-![Wireshark & Nmap University](https://i.imgur.com/kRZTglr.png)
+![image](https://github.com/user-attachments/assets/348b9047-bc9d-465b-a37f-e06eebd8b53a)
+
 
 ---
 
