@@ -22,7 +22,8 @@ In this project, we explore **Wireshark** and **Nmap** techniques taught by Chri
 
 ## Lab Architecture Before Hardening
 
-![Lab Diagram (Before Hardening)](https://i.imgur.com/Rv6acZK.png)
+![image](https://github.com/user-attachments/assets/debb13a8-dcab-4009-b89c-f83082fcff83)
+
 
 ### Description of the Lab (Insecure State)
 
@@ -39,7 +40,8 @@ In this “before” state, the lab is deliberately **insecure**—everything is
 
 ## Lab Architecture After Hardening
 
-![Lab Diagram (After Hardening)](https://i.imgur.com/p6KkXMD.png)
+![image](https://github.com/user-attachments/assets/6587348e-037d-48fe-bf4f-975d43c683a0)
+
 
 ### Hardening Changes
 
